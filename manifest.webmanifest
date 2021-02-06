@@ -1,0 +1,15 @@
+{
+  "background_color": "black",
+  "description": "Demo.",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "logo.svg",
+      "sizes": "72x72",
+      "type": "image/svg"
+    }
+  ],
+  "name": "Fotoscapes",
+  "short_name": "Fotoscapes",
+  "start_url": "index.html"
+}
