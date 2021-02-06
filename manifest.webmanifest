@@ -4,11 +4,19 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "logo.svg",
-      "sizes": "72x72",
-      "type": "image/svg"
+      "src": "https://miro.medium.com/fit/c/192/192/medium-v1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://miro.medium.com/fit/c/512/512/medium-v2.png",
+      "type": "image/png",
+      "sizes": "512x512"
     }
   ],
+  "scope": "/",
+  "theme_color": "#E53012",
+  "orientation": "portrait",
   "name": "Fotoscapes",
   "short_name": "Fotoscapes",
   "start_url": "index.html"
