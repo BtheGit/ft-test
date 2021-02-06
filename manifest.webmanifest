@@ -4,12 +4,7 @@
   "display": "fullscreen",
   "icons": [
     {
-      "src": "https://miro.medium.com/fit/c/192/192/medium-v1.png",
-      "type": "image/png",
-      "sizes": "192x192"
-    },
-    {
-      "src": "https://miro.medium.com/fit/c/512/512/medium-v2.png",
+      "src": "logo.png",
       "type": "image/png",
       "sizes": "512x512"
     }
