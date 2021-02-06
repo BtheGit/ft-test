@@ -1,5 +1,5 @@
 const CACHE_NAME = "fotoscapes-sw-cache";
-const urlsToCache = ["/"];
+const urlsToCache = ["/", "/ft-test", "/ft-test/index.html"];
 
 self.addEventListener("install", function (event) {
   // Perform install steps
